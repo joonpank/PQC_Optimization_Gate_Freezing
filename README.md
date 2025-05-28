@@ -16,7 +16,8 @@ Link to original code for Fraxis and FQS in GitHub: https://github.com/KQCC-Chem
 
 3. **Sequential optimal selections of single-qubit gates in parameterized quantum circuits**  
    *Kaito Wada, Rudy Raymond, Yuki Sato and Hiroshi C Watanabe*  
-   In *Quantum Sci. Technol. 9 (2024) 035030*  
+   In *Quantum Sci. Technol. 9 (2024) 035030*
+   
    [DOI: 10.1088/2058-9565/ad4583](https://iopscience.iop.org/article/10.1088/2058-9565/ad4583/pdf)
 
 
