@@ -11,7 +11,7 @@ Link to original code for Fraxis and FQS in GitHub: https://github.com/KQCC-Chem
 
 2. **Optimizing parameterized quantum circuits with free-axis selection**  
    *Watanabe, H. C., Raymond, R., Ohnishi, Y. Y., Kaminishi, E., & Sugawara, M.*
-   In 2021 IEEE International Conference on Quantum Computing and Engineering (QCE) (pp. 100-111). IEEE.
+   In *2021 IEEE International Conference on Quantum Computing and Engineering (QCE) (pp. 100-111). IEEE.*
    
    [DOI: 10.1109/QCE52317.2021.00026](https://arxiv.org/pdf/2104.14875)
 
