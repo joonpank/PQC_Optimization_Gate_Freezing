@@ -5,7 +5,7 @@ Link to original code for Fraxis and FQS in GitHub: https://github.com/KQCC-Chem
 ## References
 
 1. **Gate Freezing Method for Gradient-Free Variational Quantum Algorithms in Circuit Optimization**  
-   *Joona V. Pankkonen et. al*  
+   *Joona V. Pankkonen, Lauri Ylinen, Matti Raasakka, and Ilkka Tittonen*  
    *Preprint on arXiv*
    (TODO)
 
